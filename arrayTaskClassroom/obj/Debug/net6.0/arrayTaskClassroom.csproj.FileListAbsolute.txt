@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\bin\Debug\net6.0\arrayTaskClassroom.exe
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\bin\Debug\net6.0\arrayTaskClassroom.deps.json
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\bin\Debug\net6.0\arrayTaskClassroom.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\bin\Debug\net6.0\arrayTaskClassroom.dll
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\bin\Debug\net6.0\arrayTaskClassroom.pdb
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.dll
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\refint\arrayTaskClassroom.dll
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.pdb
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\arrayTaskClassroom.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\arrayTaskClassroom\arrayTaskClassroom\obj\Debug\net6.0\ref\arrayTaskClassroom.dll
